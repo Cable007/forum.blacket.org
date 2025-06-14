@@ -2,15 +2,14 @@
 <!-- Cover -->
 <h1 align="center">
 	<br>
-	<a href="https://forum.blacket.org/">
+	<a href="https://dev.blacket.org/">
 		<img src="https://github.com/BlacketPS/setup.blacket.org/raw/master/assets/logo.png" alt="Logo" width="160" height="160">
 	</a>
 	<br>
-	Blacket
+	Blacket Forums
 	<br>
 </h1>
 
-<!-- Badges -->
 <p align="center">
 	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 	<img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
@@ -49,4 +48,4 @@ Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 ---
 
-The above README is a work in progress and will be updated with previews as well as other information as we get closer to a release ready state for Blacket v3, feel free to make a PR to improve this README with some writeups etc.
+Forums is still in development
