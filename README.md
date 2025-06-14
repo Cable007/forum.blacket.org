@@ -2,8 +2,8 @@
 <!-- Cover -->
 <h1 align="center">
 	<br>
-	<a href="https://blacket.org">
-		<img src="./assets/logo.png" alt="Logo" width="160" height="160">
+	<a href="https://forum.blacket.org/">
+		<img src="./forum.png" alt="Logo" width="160" height="160">
 	</a>
 	<br>
 	Blacket
@@ -25,7 +25,7 @@
 
 ## Features
 
-![Blacket Forums](./assets/preview.png)
+<!-- Image added after we start-->
 
 Blacket Forums is for ban appeals.
 
