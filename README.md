@@ -3,7 +3,7 @@
 <h1 align="center">
 	<br>
 	<a href="https://forum.blacket.org/">
-		<img src="./forum.png" alt="Logo" width="160" height="160">
+		<img src="https://github.com/BlacketPS/setup.blacket.org/raw/master/assets/logo.png" alt="Logo" width="160" height="160">
 	</a>
 	<br>
 	Blacket
@@ -32,7 +32,6 @@ Blacket Forums is for ban appeals.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Collaborators
 
